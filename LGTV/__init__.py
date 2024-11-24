@@ -15,7 +15,7 @@ from .cursor import LGTVCursor
 
 
 search_config = [
-    "~/.config/hammerspoon/Spoons/LGWebOSRemote"
+    "~/.config/hammerspoon/Spoons/LGWebOSRemote/config.json"
 ]
 
 def get_commands():
